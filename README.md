@@ -1,2 +1,4 @@
 # Spring-Core
-This repo has java based, annotation based configuration demos and tight and loose coupling demo codes
+Spring Core has Spring application code with Javabased and annotation based configurations
+Demostration of tight and loosing coulping
+How sring application would work with and without Dependency Injection.
